@@ -1,0 +1,14 @@
+Source: chip-metapackage
+Section: unknown
+Priority: optional
+Maintainer: Ben Young <benjamin@nextthing.co>
+Build-Depends: debhelper (>= 9)
+Standards-Version: 3.9.5
+Homepage: nextthing.co
+Github: github.com/NextThingCo
+
+Package: chip-metapackage
+Architecture: all
+Depends: ${misc:Depends}, chip-configs, chip-exit
+Description: Metapackage for chip.
+ Basic metapackage for chip.
