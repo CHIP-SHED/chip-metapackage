@@ -9,6 +9,6 @@ Github: github.com/NextThingCo
 
 Package: chip-metapackage
 Architecture: all
-Depends: ${misc:Depends}, chip-configs, chip-exit
+Depends: ${misc:Depends}, chip-configs, chip-exit, chip-theme
 Description: Metapackage for chip.
  Basic metapackage for chip.
