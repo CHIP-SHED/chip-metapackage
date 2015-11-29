@@ -1,12 +1,19 @@
+chip-metapackage (0.3) unstable; urgency=low
+
+  * Added chip-hwtest.
+
+ -- Ben Young <software@nextthing.co>  Sun, 29 Nov 2015 14:28:07 -0800
+
+
 chip-metapackage (0.2) unstable; urgency=low
 
   * Added chip-theme.
 
- -- Ben Young <benjamin@nextthing.co>  Fri, 13 Nov 2015 15:53:07 -0800
+ -- Ben Young <software@nextthing.co>  Fri, 13 Nov 2015 15:53:07 -0800
 
 
 chip-metapackage (0.1) unstable; urgency=low
 
   * Initial Release.
 
- -- Ben Young <benjamin@nextthing.co>  Fri, 13 Nov 2015 15:53:07 -0800
+ -- Ben Young <software@nextthing.co>  Fri, 13 Nov 2015 15:53:07 -0800
