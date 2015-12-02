@@ -1,3 +1,10 @@
+chip-metapackage (0.4) unstable; urgency=low
+
+  * Added chip-input-reset.
+
+ -- Ben Young <software@nextthing.co>  Wed, 2 Dec 2015 12:17:07 -0800
+
+
 chip-metapackage (0.3) unstable; urgency=low
 
   * Added chip-hwtest.
