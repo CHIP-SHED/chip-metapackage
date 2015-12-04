@@ -1,3 +1,10 @@
+chip-metapackage (0.5) unstable; urgency=low
+
+  * Added chip-power.
+
+ -- Ben Young <software@nextthing.co>  Wed, 4 Dec 2015 15:30:07 -0800
+
+
 chip-metapackage (0.4) unstable; urgency=low
 
   * Added chip-input-reset.
