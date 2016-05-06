@@ -1,3 +1,10 @@
+chip-metapackage (0.6) unstable; urgency=low
+
+  * Increment for pocketchip compatibility.
+
+ -- Ben Young <software@nextthing.co>  Thu, 5 May 2016 19:59:07 -0800
+
+
 chip-metapackage (0.5) unstable; urgency=low
 
   * Added chip-power.
